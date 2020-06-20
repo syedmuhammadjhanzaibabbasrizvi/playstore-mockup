@@ -1,0 +1,144 @@
+body {
+  margin: auto;
+  background-color: #202125;
+  font-family: sans-serif;
+}
+.div1 {
+  width: 100%;
+}
+.nav1 {
+  position: relative;
+  display: flex;
+  padding: auto;
+  padding: 30px;
+}
+input {
+  width: 100%;
+  height: 40px;
+  border-style: none;
+  border-color: #3c4043;
+  border-radius: 7px;
+  background-color: #3c4043;
+}
+::-webkit-input-placeholder {
+  box-sizing: border-box;
+  color: white;
+  display: flex;
+  text-align-last: center;
+  font-size: large;
+}
+.imgmic {
+  margin: 0px -40px 0px -110px;
+}
+.imga1 {
+  margin: 0px 0px 0px 50px;
+}
+.div2 {
+  width: 100%;
+}
+.nav2 {
+  display: flex;
+  padding: auto;
+}
+.ul1 {
+  display: flex;
+  width: 100%;
+  margin: 16px 0px 9px 129px;
+}
+.a {
+  text-decoration: none;
+}
+.li1 {
+  font-size: x-large;
+  color: white;
+  margin-left: 16px;
+}
+.li2 {
+  font-size: x-large;
+  color: white;
+  margin-left: 366px;
+}
+.li3 {
+  font-size: x-large;
+  color: white;
+  margin: 2px 263px 10px 446px;
+}
+.li4 {
+  font-size: x-large;
+  color: white;
+  margin: 2px 10px 10px 46px;
+}
+.linee {
+  border-bottom: 2px solid white;
+  color: white;
+}
+.imp {
+  color: white;
+  margin: 43px 0px 0px 193px;
+  font-size: x-large;
+}
+.imgleft {
+  margin: -47px 10px -7px 1700px;
+}
+.beauty {
+  border-radius: 20px;
+  width: 300px;
+  height: 300px;
+  margin: 70px 10px 10px 250px;
+}
+.retrica {
+  border-radius: 20px;
+  width: 300px;
+  height: 300px;
+  margin: 0px 10px 10px 251px;
+}
+.insta {
+  border-radius: 20px;
+  width: 300px;
+  height: 300px;
+  margin: 0px 0px 0px 202px;
+}
+.be1 {
+  color: white;
+  margin: 18px 0px 0px 215px;
+}
+.re2 {
+  color: white;
+  margin: -17px 0px 0px 840px;
+}
+.in3 {
+  color: white;
+  margin: -17px 0px 0px 1355px;
+}
+.recent {
+  color: white;
+  font-size: x-large;
+  margin: 45px 0px 0px 165px;
+}
+.rightarrow {
+  height: 30px;
+  width: 50px;
+  margin: -14px 0px 14px 1700px;
+}
+.sound {
+  border-radius: 20px;
+  height: 300px;
+  width: 300px;
+  margin: 70px 10px 10px 250px;
+}
+.whatsapp {
+  border-radius: 20px;
+  height: 300px;
+  width: 300px;
+  margin: 0px 10px 10px 251px;
+}
+.imo {
+  border-radius: 20px;
+  height: 300px;
+  width: 300px;
+  margin: 0px 10px 10px 202px;
+}
+.wb2 {
+  color: white;
+  margin: -19px 0px 0px 900px;
+}
